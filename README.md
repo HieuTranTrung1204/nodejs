@@ -1,1 +1,3 @@
-- http://10.218.233.100:8080/
+## Sử dụng kiểm tra ping giữa Desktop với mobile
+- pc: http://localhost:8080 
+- mobile: http://my_ip:8080
